@@ -1,4 +1,4 @@
-# **Alex Walters**
+# Alex Walters
 
 Wilkinson Hall, Room 251, Oregon State University
 
@@ -8,11 +8,11 @@ walteral@oregonstate.edu
 
 https://github.com/walteral/walteral.github.io
 
-###**PROFESSIONAL SUMMARY**
+### PROFESSIONAL SUMMARY
 
 Highly qualified project manager with 6 years of success in operations throughout the Pacific region, Central Asia and the U.S. Demonstrated leadership, accountability, interpersonal and operational skills.  Effective planner with operational experience,personnel management and resource accountability.
 
-###**EDUCATION**
+### EDUCATION
 
 **Oregon State University, ** Graduate Degree in Geography,								Current
 
@@ -26,7 +26,7 @@ Corvallis, OR
 
 East Lansing, MI
 
-###**EXPERIENCE**
+### EXPERIENCE
 
 **Geospatial**
 
@@ -79,13 +79,20 @@ JUN2009 – NOV 2010 Assistant Supply and Logistics Officer
 ​		
 
 **TRAINING**
+Status|School Name|Location|Year Completed
+------|-----------|--------|--------------
 
-Graduate,Advanced Officers Course, Ft. Leonard Wood, MO			          			2013
+Graduate|Advanced Officers Course| Ft. Leonard Wood, MO|2013
 
-Graduate,Sapper Leader Course, Ft. Leonard, MO					                      		2010
+Graduate|Sapper Leader Course| Ft. Leonard, MO|2010
 
-Graduate,Entry Level Leaders Course, Ft. Leonard Wood, MO				          		2009
+Graduate|Entry Level Leaders Course| Ft. Leonard Wood, MO|2009
 
 **AWARDS**
 
-Purple Heart																		2011		
+Purple Heart	:purple_heart:																	2011		
+
+> "Never ask those below you to do something you would not do yourself."
+
+![Oregon state](http://www.underconsideration.com/brandnew/archives/oregon_state_university_icon_detail.png)
+
