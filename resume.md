@@ -1,4 +1,4 @@
-#**Alex Walters**
+# **Alex Walters**
 
 Wilkinson Hall, Room 251, Oregon State University
 
