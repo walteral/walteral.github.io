@@ -14,7 +14,7 @@ Highly qualified project manager with 6 years of success in operations throughou
 
 ### EDUCATION
 
-**Oregon State University, ** Graduate Degree in Geography,								Current
+**Oregon State University**, Graduate Degree in Geography,								Current
 
 Corvallis, OR
 
@@ -79,20 +79,18 @@ JUN2009 – NOV 2010 Assistant Supply and Logistics Officer
 ​		
 
 **TRAINING**
-Status|School Name|Location|Year Completed
-------|-----------|--------|--------------
 
-Graduate|Advanced Officers Course| Ft. Leonard Wood, MO|2013
-
-Graduate|Sapper Leader Course| Ft. Leonard, MO|2010
-
-Graduate|Entry Level Leaders Course| Ft. Leonard Wood, MO|2009
+|Status|School Name|Location|Year Completed|
+|------|-----------|--------|--------------|
+|Graduate|Advanced Officers Course| Ft. Leonard Wood, MO|2013|
+|Graduate|Sapper Leader Course| Ft. Leonard, MO|2010|
+|Graduate|Entry Level Leaders Course| Ft. Leonard Wood, MO|2009|
 
 **AWARDS**
 
 Purple Heart	:purple_heart:																	2011		
 
-> "Never ask those below you to do something you would not do yourself."
+> "Never ask your subordinates to do something you would not do yourself."
 
 ![Oregon state](http://www.underconsideration.com/brandnew/archives/oregon_state_university_icon_detail.png)
 
