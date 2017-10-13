@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:class="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Airports</title>
+
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+          integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+            integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+            crossorigin=""></script>
+    <script src="https://unpkg.com/esri-leaflet@2.1.1/dist/esri-leaflet.js"
+            integrity="sha512-ECQqaYZke9cSdqlFG08zSkudgrdF6I1d8ViSa7I3VIszJyVqw4ng1G8sehEXlumdMnFYfzY0tMgdQa4WCs9IUw=="
+            crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel = "stylesheet" href= 'css/main.css'>
+
+
+
+</head>
+
+
+<body>
+<h1 class = center>  A Map of the US Airports </h1>
+
+
+<div id="wrapper" class="center">
+
+
+    <div id="map" style="width: 95%; height: 95%;" class="center" >
+        <div id="basemaps-wrapper" class="leaflet-bar">
+            <select name="basemaps" id="basemaps" onChange="changeBasemap(basemaps)">
+                <option value="Topographic">Topographic</option>
+                <option value="NationalGeographic">National Geographic</option>
+                <option value="Oceans">Oceans</option>
+                <option value="Gray">Gray</option>
+                <option value="DarkGray">Dark Gray</option>
+                <option value="Imagery">Imagery</option>
+                <option value="ShadedRelief">Shaded Relief</option>
+            </select>
+        </div>
+        </div>
+
+    <div id="controls">
+        <div id="credits" class = center><p> Fall 2017 | GEOG 371 | Geovisualization: Web Mapping | Alex Walters</p>
+     </div>
+    </div>
+    </div>
+
+
+
+<script src="js/main.js">
+
+
+</script>
+
+</body>
+</html>

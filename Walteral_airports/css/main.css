@@ -1,0 +1,83 @@
+.legend i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+.legend img {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    float: left;
+}
+
+
+.legend p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;}
+
+body {
+    margin: 0px;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+credits p {
+    margin-top: 5px;
+    font-size: 12px;
+    text-align: right;
+    line-height: 16px;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px;
+    padding: 20px;
+}
+html {
+    height:100%;
+}
+body {
+    background-color: rgba(208, 177, 160, 0.71);
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#map {
+    width: 100%;
+    height: 100%;
+}
+.info {
+    z-index: 1000;
+    position: ;
+    right: 300px;
+    top: 700px;
+    padding: 6px 8px;
+    font: 14px Arial, Helvetica, sans-serif;
+    text-align: right;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.info h1 { border-bottom-color: black ;
+    font-size: 16px;
+    margin: 0 0 5px;
+    color: #777777;
+}
+.marker-color{
+    color: green;
+}
+#basemaps-wrapper {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 4000;
+    background: white;
+    padding: 10px;
+}
+#basemaps {
+    margin-bottom: 5px;
+}
+body { margin:0; padding:0; }
+#map { position: absolute; top:0; bottom:0; right:0; left:0;    }
